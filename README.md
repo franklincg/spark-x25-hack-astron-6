@@ -1,6 +1,8 @@
-# [HACK-ASTRON] Spark-X2.5-1.7B Q8_0 — Reproducible GSM8K 100-sample CPU evaluation
+# [HER Hack-Astron #6] Spark-X2.5-1.7B Q8_0 — Reproducible GSM8K 100-sample CPU evaluation
 
 Challenge: https://github.com/XHToken/Spark-X2.5/issues/9
+
+Public reproducibility repository: https://github.com/franklincg/spark-x25-hack-astron-6
 
 ## Result
 
