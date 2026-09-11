@@ -4,6 +4,8 @@ Challenge: https://github.com/XHToken/Spark-X2.5/issues/9
 
 Public reproducibility repository: https://github.com/franklincg/spark-x25-hack-astron-6
 
+Submitted Discussion: https://huggingface.co/XHToken/Spark-X2.5-1.7B/discussions/25
+
 ## Result
 
 I evaluated **Spark-X2.5-1.7B Q8_0 GGUF** on a fixed, seeded 100-item subset of the **GSM8K test split** with no external tools and deterministic pass@1 decoding.
